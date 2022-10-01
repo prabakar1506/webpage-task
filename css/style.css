@@ -1,0 +1,54 @@
+*{
+   margin:0px;
+   padding:0px;
+   box-sizing:border-box;
+}
+.team{
+	     
+}
+.team-head{
+             text-align:center;
+			 padding-top:3rem;
+}
+.team-head h2{
+	          color:#0a26c4;
+			  padding-bottom:1rem;
+              font-family:roboto;			  
+}  
+.team-head h1{
+	          color:#031269;
+              font-family:sans-serif;			  
+}  
+.team-1{
+	     display:flex;
+		 padding:2rem 5rem;
+		
+}
+.items{
+	    width:24%;
+		text-align:center;
+		border-radius:25px 25px 0px 0px;
+		box-shadow:0px 0px 15px #c0c2c0;
+		margin:0 auto;
+		
+}
+.img-1 img{
+	        width:100%;
+			border-radius:25px 25px 0px 0px;
+}
+svg{
+     margin-top:-2rem;
+}
+.items h1{
+	       padding-top:1rem;
+		   color:#031269;
+}
+.items h3{
+	       padding-top:1rem;
+		   font-size:1rem;
+		   color:#434544;
+}
+.items p{
+	       padding:2rem;
+		   color:#434544;
+}
